@@ -1,0 +1,16 @@
+telethon
+google-generativeai
+Pillow
+speedtest-cli
+aiohttp
+telegraph
+requests
+yt-dlp
+beautifulsoup4
+lxml
+pytz
+ffmpeg
+wikipedia
+spotipy
+urllib3
+pytube
