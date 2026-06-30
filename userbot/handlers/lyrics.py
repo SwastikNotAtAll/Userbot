@@ -81,7 +81,7 @@ def init(client, sync_callback=None):
 
             if not lyrics:
                 await event.reply(
-                    "Lyrics are unavailable for this song.",
+                    "𝗟𝘆𝗿𝗶𝗰𝘀 𝗮𝗿𝗲 𝗨𝗻𝗮𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲 𝗙𝗼𝗿 𝗧𝗵𝗶𝘀 𝗦𝗼𝗻𝗴.",
                     parse_mode="html",
                 )
                 return
