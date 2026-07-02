@@ -10,7 +10,7 @@ beautifulsoup4
 lxml
 pytz
 ffmpeg
-wikipedia
+wikipedia-api
 spotipy
 urllib3
 pytube
