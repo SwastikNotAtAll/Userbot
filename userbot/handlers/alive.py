@@ -63,7 +63,7 @@ def init(client, sync_callback=None):
 
             # Final caption
             caption = (
-                "ᥫ᭡ 𝐇𝐞𝐲𝐚! 𝐈 𝐚𝐦 𝐀𝐥𝐢𝐯𝐞 𝐁𝐚𝐛𝐲!\n\n"
+                "𝐇𝐞𝐲𝐚! 𝐈 𝐚𝐦 𝐀𝐥𝐢𝐯𝐞!\n\n"
                 "┏━━━━━━━━━━━━━━━━┓\n"
                 f"┃ • ᴛᴇʟᴇᴛʜᴏɴ : ᴠ{tele_ver}\n"
                 f"┃ • ᴀʟɪᴠᴇ ꜱɪɴᴄᴇ: {uptime_str}\n"
